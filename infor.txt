@@ -1,0 +1,14 @@
+THIẾT KẾ VÀ PHÁT TRIỂN MŨ BẢO HIỂM IOT HỖ TRỢ GIÁM SÁT AN TOÀN GIAO THÔNG VÀ CẢNH BÁO NGUY CƠ TAI NẠN
+- Tìm hiểu vi điều khiển ESP32, ESP32 CAM hoặc Raspberry Pi, các cảm biến liên quan như cảm biến gia tốc, cảm biến lực, cảm biến va chạm, module gửi nhận tin nhắn.
+Tìm hiểu, thiết kế và phát triển mũ bảo hiểm thông minh có các chức năng sau
+
+a. Nhận điện hình ảnh người lái xe không đội mũ bảo hiểm ứng dụng học sâu .
+b. Cảm biến lực dùng để phát hiện người đội mũ đúng cách. Nếu phát hiện người đã đội mũ và đội đúng cách thì mới cho phép xe khởi động. Mũ có trang bị khả năng cung cấp âm thanh thông báo khi không đội mũ và đội mũ chưa đúng cách.
+c. Mũ cũng được trang bị cảm biến gia tốc hoặc các cảm biến chuyển động khác giúp nhận diện các hành vi nguy hiểm như tăng tốc đột ngột.
+d. Trang bị cảm biến va chạm cả trên xe và mũ giúp nhận biết tình huống va chạm và cảnh báo bằng cách gọi điện thoại người thân. Đồng thời gửi định vị GPS giúp xác định vị trí người lái xe.
+e. Hệ thống kết nối qua ứng dụng di động hoặc website sử dụng web server ghi lại lịch sử trạng thái, vị trí đội mũ, trạng thái an toàn, ...
+Viết chương trình cho vi điều khiển để triển khai thiết kế.
+
+Triển khai mạch phần cứng, thiết kế sản phẩm, kiểm tra và sửa lỗi.
+
+Viết báo cáo theo chuẩn khoa học.
