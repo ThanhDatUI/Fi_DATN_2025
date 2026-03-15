@@ -1,6 +1,6 @@
 # Thiết Kế Và Phát Triển Mũ Bảo Hiểm IoT  
 ### Hỗ Trợ Giám Sát An Toàn Giao Thông Và Cảnh Báo Nguy Cơ Tai Nạn
-
+![Helmet](z7623570579517_f16f6def36840816d8685aa953d365e8.jpg)
 ## 📌 Giới thiệu
 Tai nạn giao thông, đặc biệt liên quan đến xe mô tô, vẫn là vấn đề nghiêm trọng. Nhiều trường hợp xảy ra do người lái không đội mũ bảo hiểm hoặc đội sai cách.  
 Đề tài này xây dựng **mũ bảo hiểm thông minh tích hợp IoT và cảm biến hiện đại**, nhằm:
